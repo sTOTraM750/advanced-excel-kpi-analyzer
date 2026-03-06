@@ -113,7 +113,7 @@ Conditional formatting
 
 Executive dashboard design
 
-📈 Key Learnings
+- Key Learnings
 
 Designing KPIs from raw business data
 
@@ -122,3 +122,4 @@ Benchmarking performance using engineered targets
 Translating numerical results into management insights
 
 Structuring Excel models for scalability and clarity
+
