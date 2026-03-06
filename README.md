@@ -1,12 +1,12 @@
-Advanced Excel KPI Analyzer (Sales Performance)
-📌 Project Overview
+Excel KPI Analyzer (Sales Performance)
+- Project Overview
 
-The Advanced Excel KPI Analyzer is a management-level analytics project built using real-world sales transaction data.
+The Excel KPI Analyzer is a management-level analytics project built using real-world sales transaction data.
 The project focuses on KPI engineering, target benchmarking, variance analysis, and executive dashboarding to support data-driven decision-making.
 
 Unlike basic dashboards, this project demonstrates how analysts design performance metrics even when targets are not provided, a common real-world scenario.
 
-🎯 Objectives
+- Objectives
 
 Analyze real sales transaction data
 
@@ -20,7 +20,7 @@ Generate management-level insights
 
 Build an executive-ready KPI dashboard
 
-📂 Dataset Information
+- Dataset Information
 
 Source: External sales dataset (CSV)
 
@@ -36,7 +36,7 @@ Sale Date
 
 The dataset was imported without modification and structured for analysis.
 
-🗂️ Project Structure
+- Project Structure
 Advanced_Excel_KPI_Analyzer.xlsx
 │
 ├── Raw_Data
@@ -46,14 +46,14 @@ Advanced_Excel_KPI_Analyzer.xlsx
 ├── Insights
 └── Dashboard
 
-📊 Sheet Descriptions
-1️⃣ Raw_Data
+- Sheet Descriptions
+1️- Raw_Data
 
 Stores original sales transactions
 
 Acts as the single source of truth
 
-2️⃣ Cleaned_Data
+2️- Cleaned_Data
 
 Transforms raw data into analysis-ready format
 
@@ -61,13 +61,13 @@ Derives Year and Month fields
 
 Standardizes sales values
 
-3️⃣ Targets
+3️- Targets
 
 Defines engineered performance targets
 
 Enables benchmarking in absence of predefined goals
 
-4️⃣ KPI_Calculations
+4️- KPI_Calculations
 
 Calculates key performance indicators:
 
@@ -79,7 +79,7 @@ Average Sale per Transaction
 
 Computes variance, variance percentage, and performance status
 
-5️⃣ Insights
+5️- Insights
 
 Identifies:
 
@@ -89,7 +89,7 @@ High-risk performance areas
 
 Immediate action requirements
 
-6️⃣ Dashboard
+6️- Dashboard
 
 Executive KPI scorecards with status indicators
 
@@ -99,7 +99,7 @@ Product-wise performance comparison
 
 Designed for fast decision-making
 
-🛠️ Tools & Skills Used
+- Tools & Skills Used
 
 Microsoft Excel
 
@@ -122,7 +122,3 @@ Benchmarking performance using engineered targets
 Translating numerical results into management insights
 
 Structuring Excel models for scalability and clarity
-
-✅ Project Status
-
-Completed & Portfolio-Ready
